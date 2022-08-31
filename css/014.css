@@ -1,0 +1,12 @@
+/***********Excluir un parrafo**************/
+
+/* p:not(.texto) {
+    color: red;
+} */
+
+
+/***********Excluir varios parrafo**************/
+
+p:not(.texto):not(.oferta) {
+    color: red;
+}

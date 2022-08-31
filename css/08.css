@@ -1,0 +1,7 @@
+/* .admin .div{
+    border: 2px solid yellow;
+} */
+
+.admin > div{
+    border: 2px solid yellow;
+}
